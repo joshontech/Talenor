@@ -1,10 +1,10 @@
 [
 null,
-{"id":1,"expanded":true,"name":"World Map","order":1,"parentId":0,"scrollX":3203.3333333333335,"scrollY":6045},
-{"id":2,"expanded":true,"name":"Town 1","order":2,"parentId":1,"scrollX":811,"scrollY":450.5},
-{"id":3,"expanded":false,"name":"House Left","order":3,"parentId":2,"scrollX":811,"scrollY":449.5},
-{"id":4,"expanded":false,"name":"Town 2","order":5,"parentId":1,"scrollX":811,"scrollY":550.5},
+{"id":1,"expanded":true,"name":"World Map","order":1,"parentId":0,"scrollX":3213.818181818182,"scrollY":6130.363636363637},
+{"id":2,"expanded":true,"name":"Town 1","order":2,"parentId":1,"scrollX":884.7272727272727,"scrollY":839.4545454545455},
+{"id":3,"expanded":false,"name":"House Left","order":3,"parentId":2,"scrollX":884.7272727272727,"scrollY":490.3636363636364},
+{"id":4,"expanded":false,"name":"Town 2","order":5,"parentId":1,"scrollX":893.4545454545455,"scrollY":508.90909090909093},
 {"id":5,"expanded":true,"name":"House Middle","order":4,"parentId":2,"scrollX":861,"scrollY":502.5},
-{"id":6,"expanded":true,"name":"Ruins","order":6,"parentId":1,"scrollX":811,"scrollY":449.5},
-{"id":7,"expanded":false,"name":"Stone Cave","order":7,"parentId":6,"scrollX":1149,"scrollY":990.5}
+{"id":6,"expanded":true,"name":"Ruins","order":6,"parentId":1,"scrollX":884.7272727272727,"scrollY":940.909090909091},
+{"id":7,"expanded":false,"name":"Stone Cave","order":7,"parentId":6,"scrollX":1084,"scrollY":640}
 ]
