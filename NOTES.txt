@@ -1,0 +1,1 @@
+Figure out a way to make the player talk while Aela is floating. Possiblt use the self switch off script to turn self switch off for event 013 PlayerEvent.
