@@ -1,12 +1,12 @@
 [
 null,
 {"id":1,"expanded":true,"name":"World Map","order":1,"parentId":0,"scrollX":5330.4,"scrollY":6135.599999999999},
-{"id":2,"expanded":true,"name":"Valmont","order":3,"parentId":1,"scrollX":1439.111111111111,"scrollY":1019.1111111111111},
-{"id":3,"expanded":false,"name":"House Left","order":4,"parentId":2,"scrollX":589.8181818181819,"scrollY":344.3636363636364},
-{"id":4,"expanded":false,"name":"Town 2","order":7,"parentId":1,"scrollX":595.6363636363636,"scrollY":562.5454545454545},
+{"id":2,"expanded":true,"name":"Valmont","order":3,"parentId":1,"scrollX":1081.4545454545455,"scrollY":753.8181818181819},
+{"id":3,"expanded":false,"name":"House Left","order":4,"parentId":2,"scrollX":1081.3333333333333,"scrollY":610},
+{"id":4,"expanded":false,"name":"Town 2","order":7,"parentId":1,"scrollX":1081.3333333333333,"scrollY":610},
 {"id":5,"expanded":false,"name":"House Middle","order":5,"parentId":2,"scrollX":595.6363636363636,"scrollY":344.3636363636364},
 {"id":6,"expanded":true,"name":"Ruins","order":8,"parentId":1,"scrollX":844.3636363636364,"scrollY":635.2727272727273},
 {"id":7,"expanded":true,"name":"Stone Cave","order":9,"parentId":6,"scrollX":1378.1818181818182,"scrollY":388.72727272727275},
 {"id":8,"expanded":true,"name":"House Middle Basement","order":6,"parentId":5,"scrollX":595.6363636363636,"scrollY":344.3636363636364},
-{"id":9,"expanded":false,"name":"MAP009","order":2,"parentId":1,"scrollX":1081.3333333333333,"scrollY":631.3333333333334,"quick":false}
+{"id":9,"expanded":false,"name":"MAP009","order":2,"parentId":1,"scrollX":1172.3636363636363,"scrollY":1113.090909090909,"quick":false}
 ]
