@@ -8,7 +8,7 @@ null,
 {"id":6,"expanded":true,"name":"Ruins","order":10,"parentId":1,"scrollX":1081.3333333333333,"scrollY":635.3333333333334},
 {"id":7,"expanded":true,"name":"Stone Cave","order":11,"parentId":6,"scrollX":1378.1818181818182,"scrollY":388.72727272727275},
 {"id":8,"expanded":true,"name":"House Middle Basement","order":8,"parentId":5,"scrollX":595.6363636363636,"scrollY":344.3636363636364},
-{"id":9,"expanded":true,"name":"Tanterville Outskirts","order":2,"parentId":1,"scrollX":1082,"scrollY":800,"quick":false},
-{"id":10,"expanded":true,"name":"Tanterville Inn","order":3,"parentId":9,"scrollX":1081.3333333333333,"scrollY":610,"quick":false},
+{"id":9,"expanded":true,"name":"Tanterville Outskirts","order":2,"parentId":1,"scrollX":1090.6666666666667,"scrollY":830,"quick":false},
+{"id":10,"expanded":true,"name":"Tanterville Inn","order":3,"parentId":9,"scrollX":1069.3333333333333,"scrollY":602,"quick":false},
 {"id":11,"expanded":false,"name":"Tanterville Inn Rooms","order":4,"parentId":10,"scrollX":816,"scrollY":624,"quick":false}
 ]
