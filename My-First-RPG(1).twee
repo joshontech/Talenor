@@ -1,0 +1,111 @@
+:: StoryTitle
+My-First-RPG
+
+
+:: StoryData
+{
+  "ifid": "81B031BC-3E11-44CB-86BB-19CA882E3278",
+  "format": "Harlowe",
+  "format-version": "3.3.7",
+  "start": "Prologue",
+  "zoom": 1
+}
+
+
+:: Buy Outright {"position":"1200,875","size":"100,100"}
+You buy the treats outright and continue on.
+
+[[Return to Manor Guard]]
+
+
+:: Chapter 1 {"position":"900,300","size":"100,100"}
+### The search for $sister begins.
+
+You rush back to your small village and run to the mannor but the guards will not let you in without permission. You must now find a way to get permission to enter the manor. You have multiple options to accomplish this.
+
+[[Option 1- Talk to townsfolk.|Talk to everyone in town]]
+[[Option 2 - Read sign near manor.|Read the sign by the manor]]
+[[Option 3 - Talk to father.|Talk to your father]]
+
+
+:: Enter The Manor {"position":"900,1200","size":"100,100"}
+
+
+
+:: Gather rare ingredients {"position":"1525,875","size":"100,100"}
+You go to the place specified and you begin your search. You soon reilize this task is much harder then the baker led you to belive. You must fight many dangerious woodland creachers and even then it is hard to find all the rare ingredients nessesary.
+
+You may leave at any time and just go buy the ingredients or you can continue till the job is done.
+[[Buy Outright]]
+
+Continuing to find all the $RareIngredients you can now return to the baker and get your treats.
+[[Continue|Talk to baker again]]
+
+
+:: Preform a task for the baker. {"position":"1400,875","size":"100,100"}
+{(set: $RareIngredients to "rare ingredients")
+}The baker offers you the treats for free if you perform a "simple" task for them. 
+
+You must go to the wood outside of town and gather some rare ingredients for him. The baker says it will be an easy task so you gleefully accept.
+
+[[Continue|Gather rare ingredients]]
+
+
+:: Prologue {"position":"900,100","size":"100,100"}
+{(set: $sister to "Aela")
+}The protag comes home from a long jerney to collect the nessesary ingredients for an ancient ritual they need to perform. The ritual is to solve some issue they have between them and the surrounding town/area that has caused them some stigma. After reaching his home town and talking with his father and sister his sister and him sneak out that night to perform the ritual. 
+
+They reach the ruins that they need to perform the ritual in and have to find the ritual place marked with four plant shoots in a cross formation. When they reach this formatioon they perform the ritual but something goes horribly wrong. The cave shakes and a huge crystal protrudes out of the ground in front of them. Next thing they know the crystal explodes with a surge of elecrical energy blowing them both back into the walls behind them. 
+
+The protag tries to reach $sister but a force beond his understanding is keeping him from doing so. Just then someone appears. The protag gets no response after repeated attemps to get the man to speak. The man then uses some sort of magic on $sister. The protag yells out in response to this and the man finally exclaims "SILENCE" and attacks the protag with a lightning strike.
+
+The man then teleports $sister out of the ruins with himself leaving the protag behind. The surge of power stops and finally the protag can move out of the spot he was standing. Once he regains his composure after being attacked he reilizes what has happened. He is confused and distressed as to where the man and his sister went. After an exstensive search of the ruins he becomes even more distressed about the whereabouts of his sister. He knows that there is a woman in the mannor in his small village who knows about magic but he must find a way to speak with her.
+
+[[Chapter 1]]
+
+
+:: Read the sign by the manor {"position":"900,500","size":"100,100"}
+Reading this sign will reveal that the owner of the manor has requested that someone rid them of a nucence they have been plegued with.
+
+
+:: Return to Manor Guard {"position":"1300,1000","size":"100,100"}
+You give the treats you obtained to the manor guard and he lets you into the manor.
+
+[[Enter The Manor]]
+
+
+:: Talk to baker again {"position":"1650,875","size":"100,100"}
+The baker congradulates you on getting all the ingredients. They exchange the ingredients for the treats and now you may continue.
+
+[[Return to Manor Guard]]
+
+
+:: Talk to everyone in town {"position":"500,500","size":"100,100"}
+One way to advance the main quest would be to talk with the townspeople and see what they know. Most of the townspeople don't know anything but a few know enough that you can pice togeather and come up with a way into the manor.
+
+
+:: Talk to guard {"position":"1300,625","size":"100,100"}
+When talking to the guard you find out that your father did talk with him and he is willing to let you past buy you must do something for him first.
+
+There is a place in another village not far from here where you can get a special treat. The guard wants a dozen of those treats before he will let you in.
+
+[[Continue|Travel to town and optain the treats.]]
+
+
+:: Talk to your father {"position":"1300,500","size":"100,100"}
+You talk to your father and find out that he knows some of the guards and will help you in gaining entrance to the manor.
+
+[[Continue||Talk to guard]]
+
+
+:: Travel to town and optain the treats. {"position":"1300,750","size":"100,100"}
+When entering sed town you immediately notice the smell of something delicious baking in the distance. You can't quite pinpoint where the smell is coming from so you must search for it.
+
+Once you find the source of the smell you will have the option to purchase the treats you need. The treats will cost 5 gold a pice making for a total of 60 gold for a dozen.
+
+
+* if you have the gold you can just buy the treats outright. 
+[[Buy Outright]]
+* if you do not have the gold you have 2 options.
+Leave and come back with gold needed.
+[[Preform a task for the baker.]]
