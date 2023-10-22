@@ -1,14 +1,15 @@
 [
 null,
 {"id":1,"expanded":true,"name":"World Map","order":1,"parentId":0,"scrollX":5316,"scrollY":6280.285714285714},
-{"id":2,"expanded":true,"name":"Valmont","order":5,"parentId":1,"scrollX":1082,"scrollY":770},
-{"id":3,"expanded":false,"name":"House Left","order":6,"parentId":2,"scrollX":546,"scrollY":319},
-{"id":4,"expanded":false,"name":"Town 2","order":9,"parentId":1,"scrollX":1081.3333333333333,"scrollY":610},
-{"id":5,"expanded":false,"name":"House Middle","order":7,"parentId":2,"scrollX":595.6363636363636,"scrollY":344.3636363636364},
-{"id":6,"expanded":true,"name":"Ruins","order":10,"parentId":1,"scrollX":1081.3333333333333,"scrollY":635.3333333333334},
-{"id":7,"expanded":true,"name":"Stone Cave","order":11,"parentId":6,"scrollX":1378.1818181818182,"scrollY":388.72727272727275},
+{"id":2,"expanded":true,"name":"Valmont","order":5,"parentId":1,"scrollX":1276,"scrollY":640},
+{"id":3,"expanded":false,"name":"House Left","order":6,"parentId":2,"scrollX":675.2727272727273,"scrollY":397.6363636363636},
+{"id":4,"expanded":false,"name":"Town 2","order":10,"parentId":1,"scrollX":787.3333333333334,"scrollY":610.3333333333334},
+{"id":5,"expanded":false,"name":"House Middle","order":7,"parentId":2,"scrollX":928.5,"scrollY":546.75},
+{"id":6,"expanded":true,"name":"Ruins","order":11,"parentId":1,"scrollX":1081.3333333333333,"scrollY":635.3333333333334},
+{"id":7,"expanded":true,"name":"Stone Cave","order":12,"parentId":6,"scrollX":1378.1818181818182,"scrollY":388.72727272727275},
 {"id":8,"expanded":true,"name":"House Middle Basement","order":8,"parentId":5,"scrollX":595.6363636363636,"scrollY":344.3636363636364},
-{"id":9,"expanded":true,"name":"Tanterville Outskirts","order":2,"parentId":1,"scrollX":1090.6666666666667,"scrollY":830,"quick":false},
+{"id":9,"expanded":true,"name":"Tanterville Outskirts","order":2,"parentId":1,"scrollX":1061.142857142857,"scrollY":815.1428571428571,"quick":false},
 {"id":10,"expanded":true,"name":"Tanterville Inn","order":3,"parentId":9,"scrollX":1069.3333333333333,"scrollY":602,"quick":false},
-{"id":11,"expanded":false,"name":"Tanterville Inn Rooms","order":4,"parentId":10,"scrollX":816,"scrollY":624,"quick":false}
+{"id":11,"expanded":false,"name":"Tanterville Inn Rooms","order":4,"parentId":10,"scrollX":514.6666666666666,"scrollY":544.3333333333334,"quick":false},
+{"id":12,"expanded":false,"name":"Manor","order":9,"parentId":2,"scrollX":2084,"scrollY":1462.8,"quick":false}
 ]
