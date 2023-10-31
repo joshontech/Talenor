@@ -12,5 +12,5 @@ null,
 {"id":10,"expanded":true,"name":"Tanterville Inn","order":3,"parentId":9,"scrollX":540.6666666666666,"scrollY":299.6666666666667,"quick":false},
 {"id":11,"expanded":false,"name":"Tanterville Inn Rooms","order":4,"parentId":10,"scrollX":1216.5,"scrollY":674.25,"quick":false},
 {"id":12,"expanded":true,"name":"Manor","order":6,"parentId":2,"scrollX":3022,"scrollY":1110.5,"quick":false},
-{"id":13,"expanded":false,"name":"Manor Basement","order":7,"parentId":12,"scrollX":1688,"scrollY":972,"quick":false}
+{"id":13,"expanded":false,"name":"Manor Basement","order":7,"parentId":12,"scrollX":1722.909090909091,"scrollY":869.4545454545455,"quick":false}
 ]
