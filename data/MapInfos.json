@@ -1,16 +1,18 @@
 [
 null,
-{"id":1,"expanded":true,"name":"World Map","order":1,"parentId":0,"scrollX":3086,"scrollY":6141.666666666667},
-{"id":2,"expanded":true,"name":"Valmont","order":5,"parentId":1,"scrollX":1228.3636363636363,"scrollY":753.8181818181819},
-{"id":3,"expanded":false,"name":"House Left","order":8,"parentId":2,"scrollX":540.6666666666666,"scrollY":319},
-{"id":4,"expanded":false,"name":"Town 2","order":11,"parentId":1,"scrollX":884.7272727272727,"scrollY":499.0909090909091},
+{"id":1,"expanded":true,"name":"World Map","order":1,"parentId":0,"scrollX":3111.428571428571,"scrollY":6189.428571428571},
+{"id":2,"expanded":true,"name":"Valmont","order":5,"parentId":1,"scrollX":1390.2857142857142,"scrollY":770.5714285714286},
+{"id":3,"expanded":false,"name":"House Left","order":8,"parentId":2,"scrollX":1390.2857142857142,"scrollY":770.5714285714286},
+{"id":4,"expanded":false,"name":"Town 2","order":13,"parentId":1,"scrollX":1081.3333333333333,"scrollY":610},
 {"id":5,"expanded":false,"name":"House Middle","order":9,"parentId":2,"scrollX":861,"scrollY":449.5},
-{"id":6,"expanded":true,"name":"Ruins","order":12,"parentId":1,"scrollX":811.3333333333334,"scrollY":635.6666666666666},
-{"id":7,"expanded":true,"name":"Stone Cave","order":13,"parentId":6,"scrollX":1157.3333333333333,"scrollY":457.6666666666667},
+{"id":6,"expanded":true,"name":"Ruins","order":14,"parentId":1,"scrollX":1081.3333333333333,"scrollY":610},
+{"id":7,"expanded":true,"name":"Stone Cave","order":15,"parentId":6,"scrollX":1157.3333333333333,"scrollY":457.6666666666667},
 {"id":8,"expanded":true,"name":"House Middle Basement","order":10,"parentId":5,"scrollX":595.6363636363636,"scrollY":344.3636363636364},
-{"id":9,"expanded":true,"name":"Tanterville Outskirts","order":2,"parentId":1,"scrollX":1622,"scrollY":899,"quick":false},
+{"id":9,"expanded":false,"name":"Tanterville Outskirts","order":2,"parentId":1,"scrollX":1358,"scrollY":770.5,"quick":false},
 {"id":10,"expanded":true,"name":"Tanterville Inn","order":3,"parentId":9,"scrollX":816,"scrollY":624,"quick":false},
 {"id":11,"expanded":false,"name":"Tanterville Inn Rooms","order":4,"parentId":10,"scrollX":850.1818181818181,"scrollY":734.1818181818181,"quick":false},
-{"id":12,"expanded":true,"name":"Manor","order":6,"parentId":2,"scrollX":2960,"scrollY":686,"quick":false},
-{"id":13,"expanded":false,"name":"Manor Basement","order":7,"parentId":12,"scrollX":1685.3333333333333,"scrollY":1320.6666666666667,"quick":false}
+{"id":12,"expanded":false,"name":"Manor","order":6,"parentId":2,"scrollX":1404,"scrollY":1336.2857142857142,"quick":false},
+{"id":13,"expanded":false,"name":"Manor Basement","order":7,"parentId":12,"scrollX":1722.8571428571427,"scrollY":981.4285714285713,"quick":false},
+{"id":14,"expanded":true,"name":"Valmont Mines","order":11,"parentId":2,"scrollX":802,"scrollY":655.5,"quick":false},
+{"id":15,"expanded":false,"name":"Valmont Mine","order":12,"parentId":14,"scrollX":1112.7272727272727,"scrollY":1347.2727272727273,"quick":false}
 ]
