@@ -4,8 +4,8 @@
     "chromium-args": "--force-color-profile=srgb",
     "window": {
         "title": "Talenor",
-        "width": 816,
-        "height": 624,
+        "width": 2448,
+        "height": 1872,
         "position": "center",
         "icon": "icon/icon.png"
     }
