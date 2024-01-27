@@ -14,5 +14,5 @@ null,
 {"id":12,"expanded":false,"name":"Manor","order":6,"parentId":2,"scrollX":1404,"scrollY":1336.2857142857142,"quick":false},
 {"id":13,"expanded":false,"name":"Manor Basement","order":7,"parentId":12,"scrollX":1722.8571428571427,"scrollY":981.4285714285713,"quick":false},
 {"id":14,"expanded":true,"name":"Valmont Mines","order":11,"parentId":2,"scrollX":811,"scrollY":646.5,"quick":false},
-{"id":15,"expanded":false,"name":"Valmont Mine","order":12,"parentId":14,"scrollX":1080.8,"scrollY":1320.4,"quick":false}
+{"id":15,"expanded":false,"name":"Valmont Mine","order":12,"parentId":14,"scrollX":1622,"scrollY":915,"quick":false}
 ]
