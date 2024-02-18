@@ -14,6 +14,6 @@ null,
 {"id":12,"expanded":true,"name":"Manor","order":6,"parentId":2,"scrollX":2433,"scrollY":1348.5,"quick":false},
 {"id":13,"expanded":false,"name":"Manor Basement","order":7,"parentId":12,"scrollX":1722.8571428571427,"scrollY":981.4285714285713,"quick":false},
 {"id":14,"expanded":true,"name":"Valmont Mines","order":11,"parentId":2,"scrollX":982.8,"scrollY":555,"quick":false},
-{"id":15,"expanded":false,"name":"Valmont Mine","order":12,"parentId":14,"scrollX":1081.2,"scrollY":1140.6,"quick":false},
+{"id":15,"expanded":false,"name":"Valmont Mine","order":12,"parentId":14,"scrollX":1073,"scrollY":1226.5,"quick":false},
 {"id":16,"expanded":false,"name":"**One Off Events**","order":16,"parentId":0,"scrollX":973.1999999999999,"scrollY":539.4,"quick":false}
 ]
