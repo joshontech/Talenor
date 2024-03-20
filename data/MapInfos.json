@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"World Map","order":1,"parentId":0,"scrollX":3111,"scrollY":6189.5},
+{"id":1,"expanded":true,"name":"World Map","order":1,"parentId":0,"scrollX":3111.1111111111113,"scrollY":6189.777777777777},
 {"id":2,"expanded":true,"name":"Valmont","order":5,"parentId":1,"scrollX":1220,"scrollY":636.5},
 {"id":3,"expanded":false,"name":"House Left","order":9,"parentId":2,"scrollX":648.8,"scrollY":359.6},
 {"id":4,"expanded":false,"name":"Town 2","order":14,"parentId":1,"scrollX":811,"scrollY":550.5},
@@ -16,5 +16,5 @@ null,
 {"id":14,"expanded":true,"name":"Valmont Mines","order":12,"parentId":2,"scrollX":819,"scrollY":555.5,"quick":false},
 {"id":15,"expanded":false,"name":"Valmont Mine","order":13,"parentId":14,"scrollX":1065,"scrollY":1185.5,"quick":false},
 {"id":16,"expanded":false,"name":"**One Off Events**","order":17,"parentId":0,"scrollX":540.6666666666666,"scrollY":305,"quick":false},
-{"id":17,"expanded":false,"name":"Manor Shed","order":8,"parentId":12,"scrollX":811,"scrollY":449.5,"quick":false}
+{"id":17,"expanded":false,"name":"Manor Shed","order":8,"parentId":12,"scrollX":720.8888888888889,"scrollY":449.3333333333333,"quick":false}
 ]
