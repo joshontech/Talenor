@@ -1,5 +1,9 @@
 Figure out a way to make the player talk while Aela is floating. Possiblt use the self switch off script to turn self switch off for event 013 PlayerEvent.
 
-Put this in the script section of a conditional branch to check if both variables are what you want before executing whats in the if statement.
-Replace the numbers in this script with the number of the variable you want to compair.
+## Put this in the script section of a conditional branch to check if both variables are what you want before executing whats in the if statement.
+## Replace the numbers in this script with the number of the variable you want to compair.
 $gameVariables.value(76) !== $gameVariables.value(74) && $gameVariables.value(76) !== $gameVariables.value(75)
+
+## Controls any self switch in game.
+## Format for inside brackets [MAP ID, Event ID, 'Self Switch Letter']
+$gameSelfSwitches.setValue([9, 2, 'A'], false);
