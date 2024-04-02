@@ -16,5 +16,5 @@ null,
 {"id":14,"expanded":true,"name":"Valmont Mines","order":12,"parentId":2,"scrollX":819,"scrollY":555.5,"quick":false},
 {"id":15,"expanded":false,"name":"Valmont Mine","order":13,"parentId":14,"scrollX":1065,"scrollY":1185.5,"quick":false},
 {"id":16,"expanded":false,"name":"**One Off Events**","order":17,"parentId":0,"scrollX":540.6666666666666,"scrollY":305,"quick":false},
-{"id":17,"expanded":false,"name":"Manor Shed","order":8,"parentId":12,"scrollX":720.8888888888889,"scrollY":449.3333333333333,"quick":false}
+{"id":17,"expanded":false,"name":"Manor Shed","order":8,"parentId":12,"scrollX":728,"scrollY":449.3333333333333,"quick":false}
 ]
