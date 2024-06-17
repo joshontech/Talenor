@@ -26,6 +26,6 @@ var $plugins =
 {"name":"TN_SpriteExtender","status":false,"description":"Stretch the torso of the character image at any ratio to raise the body proportion.","parameters":{"bodyRate":"1.42","headRange":"14","exclude_P":"!,Damage","exclude_E":"Nature,Monster,Vehicle","applyWindowClasses":"true"}},
 {"name":"TN_SpriteExtenderEx","status":false,"description":"[DLC Assets] Generates the head change diffs for all pngs in the character folder.","parameters":{"bodyRate":"1.42","headRange":"14","directoryspex":"TN_SpriteExtenderEx"}},
 {"name":"GALV_EventSpawnerMZ","status":true,"description":"(v.1.2) Spawn events from a specified spawn map to a desired location.","parameters":{"mId":"16"}},
-{"name":"GALV_DiagonalMovement","status":true,"description":"(v.1.5) Just a basic diagonal movement plugin. Written for compatibility with other Galv plugins.","parameters":{"Diagonal Mouse":"false","Diagonal Charset":"true","Diagonal Speed":"90","Block Diagonal":"false"}},
+{"name":"GALV_DiagonalMovement","status":true,"description":"(v.1.5) Just a basic diagonal movement plugin. Written for compatibility with other Galv plugins.","parameters":{"Diagonal Mouse":"true","Diagonal Charset":"false","Diagonal Speed":"90","Block Diagonal":"false"}},
 {"name":"GALV_MessageStylesMZ","status":true,"description":"(v.2.1) 'Show Text' windows float above characters and change visuals during game.","parameters":{"iIndicator":"2,0,-12","mPadding":"0,0,0,0","invertPos":"true","aGraphic":"WindowArrow","yOffset":"60"}}
 ];
